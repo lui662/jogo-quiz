@@ -1,0 +1,252 @@
+[
+  {
+    "pergunta": "Quantas cores tem um arco-íris?",
+    "alternativas": [
+      "Sete",
+      "Oito",
+      "Nove",
+      "Dez"
+    ],
+    "resposta_correta": "Sete"
+  },
+  {
+    "pergunta": "Qual a letra que antecede a letra 'O' no dicionário brasileiro?",
+    "alternativas": [
+      "M",
+      "N",
+      "P",
+      "Q"
+    ],
+    "resposta_correta": "N"
+  },
+  {
+    "pergunta": "Qual é o único país onde o animal coala vive?",
+    "alternativas": [
+      "Brasil",
+      "Estados Unidos",
+      "Canadá",
+      "Austrália"
+    ],
+    "resposta_correta": "Austrália"
+  },
+  {
+    "pergunta": "Onde são disputadas as lutas de judô?",
+    "alternativas": [
+      "Tatame",
+      "Ringue",
+      "Estádio",
+      "Arena"
+    ],
+    "resposta_correta": "Tatame"
+  },
+  {
+    "pergunta": "Qual é a capital da França?",
+    "alternativas": [
+      "Londres",
+      "Berlim",
+      "Madri",
+      "Paris"
+    ],
+    "resposta_correta": "Paris"
+  },
+  {
+    "pergunta": "Qual é o maior planeta do sistema solar?",
+    "alternativas": [
+      "Terra",
+      "Marte",
+      "Júpiter",
+      "Saturno"
+    ],
+    "resposta_correta": "Júpiter"
+  },
+  {
+    "pergunta": "Quantos lados tem um triângulo?",
+    "alternativas": [
+      "Dois",
+      "Três",
+      "Quatro",
+      "Cinco"
+    ],
+    "resposta_correta": "Três"
+  },
+  {
+    "pergunta": "Qual é a fórmula química da água?",
+    "alternativas": [
+      "H2O",
+      "CO2",
+      "O2",
+      "CH4"
+    ],
+    "resposta_correta": "H2O"
+  },
+  {
+    "pergunta": "Quem escreveu a peça de teatro 'Romeu e Julieta'?",
+    "alternativas": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "F. Scott Fitzgerald"
+    ],
+    "resposta_correta": "William Shakespeare"
+  },
+  {
+    "pergunta": "Qual é o maior mamífero marinho?",
+    "alternativas": [
+      "Golfinho",
+      "Tubarão",
+      "Baleia-azul",
+      "Orca"
+    ],
+    "resposta_correta": "Baleia-azul"
+  },
+  {
+    "pergunta": "Em que ano ocorreu a independência do Brasil?",
+    "alternativas": [
+      "1500",
+      "1822",
+      "1888",
+      "1922"
+    ],
+    "resposta_correta": "1822"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do ouro?",
+    "alternativas": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "resposta_correta": "Au"
+  },
+  {
+    "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+    "alternativas": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "resposta_correta": "Neil Armstrong"
+  },
+  {
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "alternativas": [
+      "Deserto de Gobi",
+      "Deserto de Kalahari",
+      "Deserto do Atacama",
+      "Deserto do Saara"
+    ],
+    "resposta_correta": "Deserto do Saara"
+  },
+  {
+    "pergunta": "Quem é o autor de 'Dom Quixote'?",
+    "alternativas": [
+      "William Faulkner",
+      "Miguel de Cervantes",
+      "Fyodor Dostoevsky",
+      "Franz Kafka"
+    ],
+    "resposta_correta": "Miguel de Cervantes"
+  },
+  {
+    "pergunta": "Qual é o maior animal terrestre?",
+    "alternativas": [
+      "Elefante Africano",
+      "Girafa",
+      "Rinoceronte",
+      "Hipopótamo"
+    ],
+    "resposta_correta": "Elefante Africano"
+  },
+  {
+    "pergunta": "Qual é o planeta conhecido como 'Planeta Vermelho'?",
+    "alternativas": [
+      "Marte",
+      "Vênus",
+      "Júpiter",
+      "Urano"
+    ],
+    "resposta_correta": "Marte"
+  },
+  {
+    "pergunta": "Qual é a unidade básica de tempo no sistema internacional?",
+    "alternativas": [
+      "Segundo",
+      "Minuto",
+      "Hora",
+      "Dia"
+    ],
+    "resposta_correta": "Segundo"
+  },
+  {
+    "pergunta": "Qual é o símbolo químico do carbono?",
+    "alternativas": [
+      "C",
+      "Ca",
+      "Co",
+      "Cr"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual é a maior cordilheira do mundo?",
+    "alternativas": [
+    "Cordilheira dos Andes",
+    "Cordilheira dos Himalaias",
+    "Cordilheira dos Andes do Sul",
+    "Cordilheira dos Urais"
+    ],
+    "resposta_correta": "Cordilheira dos Andes"
+    },
+  {
+    "pergunta": "Qual é o país mais populoso do mundo?",
+    "alternativas": [
+      "Índia",
+      "Estados Unidos",
+      "China",
+      "Brasil"
+    ],
+    "resposta_correta": "China"
+  },
+  {
+    "pergunta": "Qual é o maior órgão do corpo humano?",
+    "alternativas": [
+      "Coração",
+      "Cérebro",
+      "Pele",
+      "Fígado"
+    ],
+    "resposta_correta": "Pele"
+  },
+  {
+    "pergunta": "Quem é o autor de 'A Metamorfose'?",
+    "alternativas": [
+      "George Orwell",
+      "Fyodor Dostoevsky",
+      "Franz Kafka",
+      "Albert Camus"
+    ],
+    "resposta_correta": "Franz Kafka"
+  },
+  {
+    "pergunta": "Qual é o metal usado na fabricação de aviões?",
+    "alternativas": [
+      "Ferro",
+      "Alumínio",
+      "Cobre",
+      "Chumbo"
+    ],
+    "resposta_correta": "Alumínio"
+  },
+  {
+    "pergunta": "Qual é o maior lago de água doce do mundo?",
+    "alternativas": [
+      "Lago Vitória",
+      "Lago Superior",
+      "Lago Baikal",
+      "Lago Tanganica"
+    ],
+    "resposta_correta": "Lago Superior"
+  }
+]
